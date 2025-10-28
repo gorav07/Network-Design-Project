@@ -1,10 +1,10 @@
-🖧 Network Design Project – Two Departments with DHCP Configuration
-📘 Project Overview
+**🖧 Network Design Project – Two Departments with DHCP Configuration**
+📘** Project Overview**
 
 This project demonstrates a network design for an organization consisting of two departments — IT and Accounts.
 The network is configured in Cisco Packet Tracer and includes a DHCP server that automatically assigns IP addresses to clients in both departments.
 
-🧩 Network Structure
+🧩 **Network Structure**
 
 Departments:
 
@@ -24,7 +24,7 @@ IT Department Pool: 10.10.10.5 – 10.10.10.100
 
 Accounts Department Pool: 10.10.2.0 – 10.10.2.50
 
-🧠 Key Features
+🧠 **Key Features**
 
 Centralized DHCP configuration for automated IP address assignment
 
@@ -36,7 +36,7 @@ Supports inter-department connectivity
 
 Designed and simulated in Cisco Packet Tracer
 
-⚙️ Technologies Used
+⚙️ **Technologies Used**
 
 Cisco Packet Tracer
 
@@ -48,7 +48,7 @@ LAN Switching & Routing
 
 🖼️ Network Topology
 
-💡 Future Improvements
+💡** Future Improvements**
 
 Implement VLAN segmentation for enhanced security
 
@@ -58,12 +58,12 @@ Configure router redundancy using HSRP or VRRP
 
 Introduce DNS and Web servers for more realistic simulation
 
-🤝 Feedback & Suggestions
+🤝 **Feedback & Suggestions**
 
 I’m continuously learning and improving my network design skills.
 If you have suggestions, feedback, or guidance on optimizing this topology — especially regarding security, scalability, or performance — I’d love to hear from you!
 
-📚 Author
+📚 **Author**
 
 Gorav Sharma
 Cybersecurity & Networking Enthusiast
