@@ -1,5 +1,6 @@
 **🖧 Network Design Project – Two Departments with DHCP Configuration**
-📘** Project Overview**
+
+**Project Overview**
 
 This project demonstrates a network design for an organization consisting of two departments — IT and Accounts.
 The network is configured in Cisco Packet Tracer and includes a DHCP server that automatically assigns IP addresses to clients in both departments.
